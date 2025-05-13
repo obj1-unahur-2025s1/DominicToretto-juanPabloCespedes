@@ -1,6 +1,6 @@
 object pepita {
   var energy = 100
-
+aaaa
   method energy() = energy
 
   method fly(minutes) {
